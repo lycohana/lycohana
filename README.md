@@ -162,7 +162,7 @@ System Packaging   ██████████████░░░░░░
 
 - Website: [lycohana.cn](https://www.lycohana.cn)
 - GitHub: [github.com/lycohana](https://github.com/lycohana)
-- X: [@xm2020](https://x.com/xm2020)
+- X: [@lycohana](https://x.com/lycohana)
 
 ---
 
