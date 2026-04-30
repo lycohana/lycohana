@@ -35,7 +35,10 @@
 
 ## Featured Project
 
-### BiliSum
+<details>
+<summary><strong>BiliSum</strong> — AI video summarizer and knowledge base</summary>
+
+<br>
 
 > AI video summarizer and knowledge base for Bilibili, YouTube and local videos.
 
@@ -62,7 +65,7 @@ AI          Whisper · SiliconFlow ASR · LLM API · RAG
 Infra       Docker · PyInstaller · electron-builder
 ```
 
----
+</details>
 
 ## Tech Stack
 
